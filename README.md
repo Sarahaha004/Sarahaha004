@@ -8,7 +8,7 @@
 
 ## Technologies I Use
 
-- Programming Languages: Python, JavaScript
+- Programming Languages:C,Python, JavaScript
 - Web Technologies: HTML, CSS, React JS
 
 ## Connect with Me
