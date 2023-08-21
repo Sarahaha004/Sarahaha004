@@ -12,7 +12,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/apsara-s)
+- [LinkedIn](https://linkedin.com/in/Apsara-s)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sarahaha004)
